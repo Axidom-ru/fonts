@@ -1,0 +1,49 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"0123456789□□□□□□",
+		"ABCDEFGHIJKLMNOP",
+		"QRSTUVWXYZ□□□□□□",
+		"abcdefghijklmnop",
+		"qrstuvwxyz□□□□□□",
+		"АБВГДЕЁЖЗИЙКЛМНО",
+		"ПРСТУФХЦЧШЩЪЫЬЭЮ",
+		"Я□□□□□□□□□□□□□□□",
+		"абвгдеёжзийклмно",
+		"прстуфхцчшщъыьэю",
+		"я□□□□□□□□□□□□□□□"
+	],
+	"glyph-color": "auto",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 6,
+	"glyph-height": 11,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 9,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 1024,
+	"font-line-gap": 0,
+	"font-ascend": 768,
+	"font-descend": -256,
+	"font-px-size": 128,
+	"font-name": "pixel_fon_8x13-ru_en",
+	"font-author": "Axidom, Axidom-ru",
+	"font-copy": "(c)",
+	"font-version": "Version 1.1",
+	"font-desc": "Pixel",
+	"font-license": "You have the permission",
+	"font-license-url": "",
+	"font-sample-text": "Hello!",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789"
+	]
+}
