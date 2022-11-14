@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/Axidom-ru/fonts/blob/main/assets/fonts_pixel.png" width="800" height="250"/>
+    <img src="https://github.com/Axidom-ru/fonts/blob/main/assets/header_fonts.png" width="800" height="250"/>
 </div>
 
 ## Fonts
