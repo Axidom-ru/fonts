@@ -5,3 +5,10 @@
 ## Fonts
 
 JSON and png files can be used on the website (https://yal.cc/r/20/pixelfont/) to generate font from images
+
+### Pixel fonts
+Has been changed:
+- Numbers
+- English alphabet
+- Russian alphabet
+- Unicode symbols («»±ǁ•…∙■□▫▪ǀ♂)
